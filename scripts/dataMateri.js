@@ -1709,7 +1709,7 @@ let dataMateri = [
         "type": "c",
         "title": "Contoh:",
         "content": [
-          "for i in range(1, 3):",
+          "for i in range(1, 4):",
           "print(\"Angka ke-\", i)"
         ]
       },
